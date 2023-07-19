@@ -3,10 +3,28 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-.section{
+h1{
+    text-align: center;
+}
+.maincontainer{
     border:1px solid black;
-    margin:20px;
-    padding:50px;
+    margin:80px 360px;
+    width:500px;
+    /* text-align: center; */
+    background-color: bisque;
+}
+#form{
+    display: grid;
+}
+#name,#content{
+    width:60%;
+    height: 30px;
+}
+#submit{
+    width:20%;
+    margin-left: 30%;
+}
 
+#name,#content{
+    margin-left: 10%;
 }
