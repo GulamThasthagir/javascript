@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: rgb(198, 149, 244);
+}
 h1{
     text-align: center;
 }

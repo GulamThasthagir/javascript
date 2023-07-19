@@ -40,11 +40,13 @@ let submain=document.getElementById("submain")
 
     // submain.style.display="flex"
     submain.style.marginLeft="30%"
+    submain.style.justifyContent="space-evenly"
     // submain.style.top="20%"
 
     
 
     deleteOption.addEventListener("click",()=>{
+        alert("wrong")
         
 
     })
